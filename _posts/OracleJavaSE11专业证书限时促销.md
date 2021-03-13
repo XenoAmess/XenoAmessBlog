@@ -7,7 +7,7 @@ my: XenoAmess
 
 https://learn.oracle.com/ols/learning-path/oracle-certified-professional-java-se-11-developer-register-now-for-25/82508/85217
 
-原价245$的考试费，现价254$。
+原价245$的考试费，现价25$。
 
 活动截至2021/4/25
 
