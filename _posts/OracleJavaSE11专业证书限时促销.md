@@ -5,8 +5,6 @@ tags: [ '促销' , '资讯' ]
 my: XenoAmess
 ---
 
-## OracleJavaSE11专业证书限时促销
-
 https://learn.oracle.com/ols/learning-path/oracle-certified-professional-java-se-11-developer-register-now-for-25/82508/85217
 
 原价245$的考试费，现价254$。
