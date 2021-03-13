@@ -1,7 +1,7 @@
 ---
 title: XenoAmess
 date: 2021-1-1 00:00:00
-tags: 个人简介
+tags: [ '个人简介' , '资讯' ]
 my: XenoAmess
 ---
 
