@@ -1,1 +1,1 @@
-cd /hexo/source/XenoAmessBlog ; git pull --force ; cp -rf ./* ../
+cd /hexo/source/ ; git pull --force ; hexo generate
