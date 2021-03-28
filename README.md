@@ -1,5 +1,5 @@
 # XenoAmessBlog
 
-Content layer of the blog used at http://xenoamess.com
+Content layer of of my blog.
 
 see the blog at : http://xenoamess.com
