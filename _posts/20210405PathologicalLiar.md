@@ -1,0 +1,24 @@
+---
+title: Pathological Liar
+date: 2021-4-06 01:49:00
+tags: [ '杂感' ]
+my: XenoAmess
+---
+
+![XenoAmess徽印](/resources/20210406PathologicalLiar/2021040601421600-F07D255B0DFCA3C5DB0CD5E5E8FB2084.jpg)
+
+![XenoAmess徽印](/resources/20210406PathologicalLiar/2021040601422300-F07D255B0DFCA3C5DB0CD5E5E8FB2084.jpg)
+
+![XenoAmess徽印](/resources/20210406PathologicalLiar/2021040601422800-F07D255B0DFCA3C5DB0CD5E5E8FB2084.jpg)
+
+![XenoAmess徽印](/resources/20210406PathologicalLiar/2021040601423300-F07D255B0DFCA3C5DB0CD5E5E8FB2084.jpg)
+
+![XenoAmess徽印](/resources/20210406PathologicalLiar/2021040601423900-F07D255B0DFCA3C5DB0CD5E5E8FB2084.jpg)
+
+……
+
+一边比谁都渴求信任 一边清楚地知晓自己不配
+
+这种感情
+
+……我也完全 能够理解啊
