@@ -13,9 +13,6 @@ target/
 .settings/
 .classpath
 
-# Compiled class file
-*.class
-
 # Log file
 *.log
 
@@ -40,16 +37,3 @@ replay_pid*
 
 
 # project settings
-
-/lwjgl3-master/
-
-/steam_appid.txt
-
-/run_build.lnk
-/test*
-/src/main/java/org/lwjgl/demo
-/log.txt
-
-/logs
-*.MF
-*.versionsBackup
