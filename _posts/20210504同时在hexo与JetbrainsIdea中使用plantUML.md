@@ -19,9 +19,7 @@ my: XenoAmess
 
 那嫖来用一下就好了……好吧，其实不太行
 
-```http request
 https://github.com/two/hexo-tag-plantuml
-```
 
 因为idea的plantuml要求以\`\`\`plantuml开头的注释段
 
@@ -39,21 +37,15 @@ Alice -> Bob: Authentication Request
 
 ……当我开始准备好自己写js的时候，奇迹发生了
 
-```http request
 https://github.com/search?q=hexo+plantuml
-```
 
 搜索hexo plantuml，竟然获得了已经实现了的版本，并且还是两个老哥分别实现了……
 
-```http request
 https://github.com/miao1007/hexo-filter-plantuml
-```
 
 和
 
-```http request
 https://github.com/add358/hexo-filter-markdown-plantuml
-```
 
 嗯，出于多种因素考虑，我们最终选择这个 https://github.com/miao1007/hexo-filter-plantuml
 
@@ -89,10 +81,7 @@ https://github.com/JetBrains/intellij-community/pull/1547
 
 嗯，如果等不及的人的话，可以先手动替换哦
 
-先下载新版本plantuml的jar
-```http request
-https://repo1.maven.org/maven2/net/sourceforge/plantuml/plantuml/1.2021.5/plantuml-1.2021.5.jar
-```
+先下载[新版本的plantuml.jar](https://repo1.maven.org/maven2/net/sourceforge/plantuml/plantuml/1.2021.5/plantuml-1.2021.5.jar)
 
 然后用这个jar替换掉原本的jar
 
