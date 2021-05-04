@@ -1,6 +1,6 @@
 ---
 title: 同时在hexo与JetbrainsIdea中使用plantUML
-date: 2021-5-05 04:15:00
+date: 2021-5-05 04:30:00
 tags: [ '修行' ]
 my: XenoAmess
 ---
