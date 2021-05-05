@@ -1,5 +1,5 @@
 ---
-title: 修行决策
+title: 方术师XenoAmess的修行决策
 date: 2021-5-06 05:00:00
 tags: [ '修行' ]
 my: XenoAmess
@@ -8,7 +8,7 @@ my: XenoAmess
 ```plantuml
 
 @startuml
-title 修行决策
+title 方术师XenoAmess的修行决策
 
 :一门新技术;
 partition 判断是否修行 {
