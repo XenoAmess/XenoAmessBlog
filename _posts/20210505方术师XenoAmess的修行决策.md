@@ -41,7 +41,7 @@ else (false)
     kill
 endif
 
-partition 判断作为【方术】还是【正道】修行 {
+partition 判断修行程度 {
     if (使你迫切需要修行这门技术的原因，是否要求你必须将其修行至【正道】的程度?) then (true)
         :确定修行程度为【正道】;
     else (false)
