@@ -20,7 +20,11 @@ partition 判断是否修行 {
         else (false)
             if (修行这门技术能否给你的工作带来短期价值/是你短期工作的必需品) then (true)
                 if (是否可以将这个事情交给其他人或组织处理) then (true)
-                    :确定不需要修行;
+                    if (你是否有其他强烈的需求，而必须修行这门技术) then (true)
+                        :确定需要修行;
+                    else (false)
+                        :确定不需要修行;
+                    endif
                 else (false)
                     :确定需要修行;
                 endif
