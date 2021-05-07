@@ -9,7 +9,7 @@ jobs:
     runs-on: ${{ matrix.os }}
     strategy:
       matrix:
-        os: [ubuntu-latest, windows-latest, macos-latest]
+        os: [ubuntu-latest, macos-latest]
         node-version: ['12.x', '14.x', '16.x']
       fail-fast: false
     steps:
@@ -20,22 +20,26 @@ jobs:
           node-version: ${{ matrix.node-version }}
       - name: Install XenoAmessBlogFramework
         run: |
+          cd ~
           git clone https://github.com/XenoAmess/XenoAmessBlogFramework
       - name: Install Hexo
         run: |
-          cd ./XenoAmessBlogFramework
+          cd ~/XenoAmessBlogFramework
           npm install hexo-cli -g
       - name: Get Submodules
         run: |
-          cd ./XenoAmessBlogFramework
+          cd ~/XenoAmessBlogFramework
           git submodule init
           git submodule update
           git submodule foreach git pull origin master
+      - name: Inject
+        run: |
+          cp -rf * ~/XenoAmessBlogFramework/source
       - name: Install Dependencies
         run: |
-          cd ./XenoAmessBlogFramework
+          cd ~/XenoAmessBlogFramework
           npm install
       - name: Hexo Generate
         run: |
-          cd ./XenoAmessBlogFramework
+          cd ~/XenoAmessBlogFramework
           hexo generate
