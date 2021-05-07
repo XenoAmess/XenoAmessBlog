@@ -21,15 +21,21 @@ jobs:
       - name: Install XenoAmessBlogFramework
         run: |
           git clone https://github.com/XenoAmess/XenoAmessBlogFramework
-          cd ./XenoAmessBlogFramework
       - name: Install Hexo
-        run: npm install hexo-cli -g
+        run: |
+          cd ./XenoAmessBlogFramework
+          npm install hexo-cli -g
       - name: Get Submodules
         run: |
+          cd ./XenoAmessBlogFramework
           git submodule init
           git submodule update
           git submodule foreach git pull origin master
       - name: Install Dependencies
-        run: npm install
+        run: |
+          cd ./XenoAmessBlogFramework
+          npm install
       - name: Hexo Generate
-        run: hexo generate
+        run: |
+          cd ./XenoAmessBlogFramework
+          hexo generate
