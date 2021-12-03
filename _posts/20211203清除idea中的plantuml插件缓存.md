@@ -1,5 +1,5 @@
 ---
-title: 20211203清除idea中的plantuml插件缓存
+title: 清除idea中的plantuml插件缓存
 date: 2021-12-03 15:29:00
 tags: [ '修行' ]
 my: XenoAmess
