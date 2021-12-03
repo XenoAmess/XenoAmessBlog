@@ -16,4 +16,6 @@ my: XenoAmess
 
 C:\Users\xenoa\AppData\Local\JetBrains\IntelliJIdea2021.3\markdown\PlantUMLCodeGeneratingProvider
 
-使用everything 找到命名类似这个文件夹的文件夹 删除即可
+使用everything 找到命名类似这个文件夹的文件夹 删除
+
+然后 关闭当前idea页面中的该文件，再次打开即可触发重新渲染
