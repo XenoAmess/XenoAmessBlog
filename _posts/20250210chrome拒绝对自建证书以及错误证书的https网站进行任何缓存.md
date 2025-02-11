@@ -18,6 +18,6 @@ cache-control失效? 去骂谷歌.
 
 唉我的宝贵的一天浪费在了什么垃圾玩意儿上啊
 
-参考资料:
+### 参考资料
 - [如果使用 HTTPS，浏览器不会缓存文件，即使 Web 服务器通过响应标头允许缓存](https://issues.chromium.org/issues/40140471)
 - [需要测试缓存是否因证书错误而被禁用](https://issues.chromium.org/issues/40666473)
