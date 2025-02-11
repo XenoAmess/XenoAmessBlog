@@ -21,3 +21,4 @@ cache-control失效? 去骂谷歌.
 ### 参考资料
 - [如果使用 HTTPS，浏览器不会缓存文件，即使 Web 服务器通过响应标头允许缓存](https://issues.chromium.org/issues/40140471)
 - [需要测试缓存是否因证书错误而被禁用](https://issues.chromium.org/issues/40666473)
+- [修改chromium代码重新编译可以解决但是这也太...](https://groups.google.com/a/chromium.org/g/chromium-dev/c/-xMWQzod7bA/m/a1vXoJav7uYJ?pli=1)
