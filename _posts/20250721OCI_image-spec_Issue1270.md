@@ -13,8 +13,8 @@ https://github.com/opencontainers/image-spec/issues/1270
 # 1. The problem
 
 For example, now you be an architect, holding a java application (or a python one, not really matters), depend on 100+
-jar dependencies,
-which dependency has a file size at about 200kb—50mb.
+jar dependencies;
+each dependency has a file size at about 200kb—50mb.
 
 And as you need to distribute this application as a docker image, you want to make the bandwidth transfer as efficient
 as possible.
